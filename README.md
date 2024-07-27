@@ -31,6 +31,8 @@ Following successful simulations, we built the physical circuit. We carefully se
 
 ### Bifurcation and Double-Scroll Patterns
 
+Here is a [video](https://drive.google.com/file/d/1c7vHS_T2erSN-8M2tTeOFDgCqn9_jExw/view?usp=sharing) link to for the project's working
+
 On the oscilloscope, we observed both bifurcation and double-scroll patterns, confirming the chaotic nature of Chua's circuit. These patterns demonstrate the circuit's sensitivity to initial conditions and parameter variations.
 
 ### Validation
