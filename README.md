@@ -2,7 +2,7 @@
 
 # Chua's Circuit Project
 
-This project focuses on implementing Chua's circuit, utilizing simulation tools and hands-on experimentation to explore its chaotic behavior.
+This project focuses on implementing Chua's circuit, utilizing simulation tools and hands-on experimentation to explore its chaotic behavior. This is joint work with [catrip](https://github.com/catrip19983)
 
 ## Introduction
 
