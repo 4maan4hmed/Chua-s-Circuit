@@ -6,14 +6,14 @@ This project focuses on implementing Chua's circuit, utilizing simulation tools 
 
 ## Introduction
 
-Chua's circuit is a simple electronic circuit that exhibits chaotic behavior, producing bifurcation and double-scroll patterns. This project aims to build and validate Chua's circuit, observing its behavior and exploring its potential applications.
+Chua's circuit is the simplest electronic circuit that exhibits chaotic behavior, producing bifurcations and the double-scroll pattern. This project aims to build and validate Chua's circuit, observing its behavior and exploring its potential applications.
 
 ## Components
 
 - Resistors
 - Capacitors
 - Inductors
-- Operational Amplifiers
+- Operational Amplifiers(TL082)
 - Potentiometers
 - Oscilloscope
 
@@ -21,7 +21,7 @@ Chua's circuit is a simple electronic circuit that exhibits chaotic behavior, pr
 
 ### Simulation
 
-We began with simulations to understand the behavior of Chua's circuit. Using simulation software, we fine-tuned component values and parameters to achieve the desired chaotic patterns.
+We began with simulations to understand the behavior of Chua's circuit. Using simulations, we fine-tuned the component values and parameters to achieve the desired chaotic patterns.
 
 ### Hardware
 
@@ -31,7 +31,7 @@ Following successful simulations, we built the physical circuit. We carefully se
 
 ### Bifurcation and Double-Scroll Patterns
 
-Here is a [video](https://drive.google.com/file/d/1c7vHS_T2erSN-8M2tTeOFDgCqn9_jExw/view?usp=sharing) link to for the project's working
+Here is a [video](https://drive.google.com/file/d/1c7vHS_T2erSN-8M2tTeOFDgCqn9_jExw/view?usp=sharing) link to showcase the project's operation
 
 On the oscilloscope, we observed both bifurcation and double-scroll patterns, confirming the chaotic nature of Chua's circuit. These patterns demonstrate the circuit's sensitivity to initial conditions and parameter variations.
 
